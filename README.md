@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ty700
-- I am a Computer Engineering Major at UTSA!
+- I am a 3rd year Computer Engineering major at UTSA!
 - I love coding and will soon be getting an Arduino Uno to make little projects that I will continue to upload the results here!
 - I currently know: C, Python, JavaScript, and LUA!
 - I primarily code in C as that is the first language I learned and mostly use for my engineering projects.
