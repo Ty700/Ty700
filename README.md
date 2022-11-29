@@ -2,3 +2,4 @@
 - I am a Computer Engineering Major at UTSA!
 - I love coding and will soon be getting an Arduino Uno to make little projects that I will continue to upload the results here!
 - Goodbye! Happy Problem Solving!
+- I currently know: C, Python, JavaScript, and LUA!
