@@ -4,5 +4,5 @@
 - I currently know: C, Python, JavaScript, and LUA!
 - I primarily code in C as that is the first language I learned and mostly use for my engineering projects.
 - I am currently working on: A Barbell Calculator that will tell you your 70, 75, 80, 85, 90, and 95 percent max. Along with the plate loadout for each side of the barbell. In addition, it will also recommend the user different workout pyramids to use to help develop strength. For example, it will give the user the best 3x3 that will push them the furthest, thus developing strength. 
-- [Codewars](https://www.codewars.com/users/Ty700)
+- [Codewars](https://www.codewars.com/users/Ty700)[Steam](https://steamcommunity.com/id/Tylanater700/)
 - Goodbye! Happy Problem Solving!
