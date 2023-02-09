@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ty700
+- 👋 Hi, I’m Tyler.
 - I am a 3rd year Computer Engineering major at UTSA!
 - I love coding and will soon be getting an Arduino Uno to make little projects that I will continue to upload the [results](https://github.com/Ty700/7SegmentDisplay-Arudio) here!
 - I currently have experience in: C, C++, Python, LUA JavaScript, and Swift.
