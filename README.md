@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ty700
 - I am a 3rd year Computer Engineering major at UTSA!
-- I love coding and will soon be getting an Arduino Uno to make little projects that I will continue to upload the results here!
+- I love coding and will soon be getting an Arduino Uno to make little projects that I will continue to upload the [results](https://github.com/Ty700/7SegmentDisplay-Arudio) here!
 - I currently have experience in: C, C++, Python, LUA JavaScript, and Swift.
 - I primarily code in C/C++ as those are the primary languages I am learning at the moment.
 - [Current Project](https://github.com/Ty700/TicTacToeVsCPU-WIP)
