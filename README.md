@@ -5,4 +5,8 @@
 - I primarily code in C/C++ as those are the primary languages I am learning at the moment.
 - [Current Project](https://github.com/Ty700/CardGame-WIP)
 - [Codewars](https://www.codewars.com/users/Ty700) [Steam](https://steamcommunity.com/id/Tylanater700/) [Leetcode](https://leetcode.com/Ty700/)
+- Goals (In order): 
+- Understand templates, object inheritence, and streams better. 
+- Better understanding of data structures algorithms like: Hash maps, BSTs, etc.
+- Build a program that utilizes a GUI.
 - Goodbye! Happy Problem Solving!
