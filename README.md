@@ -10,4 +10,3 @@ Goals:
 1. Better understand templates, object inheritence, and streams. 
 2. Better understanding of data structures algorithms like: Hash maps, BSTs, etc.
 3. Build a program that utilizes a GUI.
-- Goodbye! Happy Problem Solving!
