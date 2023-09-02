@@ -7,7 +7,6 @@
 - [Codewars](https://www.codewars.com/users/Ty700) [Leetcode](https://leetcode.com/Ty700/)
 
 Goals: 
-1. Sharpen C++ skills.
-     - Inheritance, Templates, Polymorphism
-2. How to use C++ to form and manipulate data structures
+1. Learn how to use C++ to form and manipulate data structures
      - BSTs, Linked Lists, Hash Tables, etc
+2. Fully Complete Python Udemy Course
