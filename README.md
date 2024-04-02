@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tyler.
-- I am a 4th year Computer Engineering major at UTSA!
-- I love coding and find myself doing it more than my actual coursework (oops). 
-- I currently have experience in: C, C++, Python, LUA, JavaScript, x86 Assembly, and Verilog.
-- I primarily code in C/C++ as those are the primary languages I am learning at the moment.
+- I am an Embedded Systems Software Engineer for SwRI.
+- I have experience in a bunch of different languages, but feel the best with x86 ASM, C, and (sometimes) C++.
+- You'll find a catalog of different projects here that range in dates from my beginner days (funny to look at now), to my current side-projects.
 - [Current Project](https://github.com/Ty700/UTSA_embedded_systems/tree/main/morse_code_project)
