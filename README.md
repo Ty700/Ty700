@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Tyler!  
 
 ### 💻 I am a Verification Engineer at AMD!
-🔹 I specialize in **x86 ASM, C, and C++**, though I’ve worked with a variety of programming languages.  
+🔹 I specialize in **C, and C++**, though I’ve worked with a variety of programming languages.  
 🔹 Here, you'll find a mix of projects—from my early coding days (always fun to look back on) to my latest side projects.  
 
 ### 🛠️ Tech & Tools:  
